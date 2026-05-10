@@ -1,0 +1,5 @@
+.encoding = "windows-1252"
+cloneOf0 = "C:\Users\souha\Documents\Virtual Machines\Ubuntu 64-bit\Ubuntu 64-bit.vmx"
+numCloneOf = "1"
+sentinel0 = "Ubuntu 64-bit-cl1.vmdk"
+numSentinels = "1"

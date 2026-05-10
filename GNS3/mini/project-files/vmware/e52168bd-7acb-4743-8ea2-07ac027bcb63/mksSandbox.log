@@ -1,0 +1,82 @@
+2026-05-07T16:11:28.109Z In(05) mks Log for VMware Workstation pid=4980 version=17.6.1 build=build-24319023 option=Release
+2026-05-07T16:11:28.109Z In(05) mks The host is x86_64.
+2026-05-07T16:11:28.109Z In(05) mks Host codepage=windows-1252 encoding=windows-1252
+2026-05-07T16:11:28.109Z In(05) mks Host is Windows 10 Pro, 64-bit (Build 19045.6466)
+2026-05-07T16:11:28.109Z In(05) mks Host offset from UTC is -01:00.
+2026-05-07T16:11:28.260Z In(05) main  MKSSandbox: MKS_UUID=52 10 b1 ab 19 8a 72 61-d4 67 47 11 d6 fe b5 13
+2026-05-07T16:11:28.260Z In(05) main  MKSRoleMain: Powering on MKS
+2026-05-07T16:11:28.260Z In(05) main  MKS PowerOn
+2026-05-07T16:11:28.260Z In(05) mks  VTHREAD 13736 "mks"
+2026-05-07T16:11:28.260Z In(05) mks  MKS thread is alive
+2026-05-07T16:11:28.261Z In(05) svga  VTHREAD 14128 "svga"
+2026-05-07T16:11:28.261Z In(05) svga  SVGA thread is alive
+2026-05-07T16:11:28.261Z In(05) mks  MKS: SSE2=1, SSSE3=1, SSE4_1=1
+2026-05-07T16:11:28.268Z In(05) mks  MKSWin32: Registering top level window (0x1c0bce) to receive session change notification.
+2026-05-07T16:11:28.271Z In(05) mks  MKSWin32: Successfully enabled high resolution system timer.
+2026-05-07T16:11:28.271Z In(05) mks  MKSWin32: Disabled power throttling.
+2026-05-07T16:11:28.271Z In(05) mks  Current Display Settings:
+2026-05-07T16:11:28.271Z In(05) mks     Display: 0 size: 1366x768  position: (0, 0) name: \\.\DISPLAY1  
+2026-05-07T16:11:28.271Z In(05) mks  MKSWin32: MIL: 0x2000
+2026-05-07T16:11:28.272Z In(05) mks  MKSRenderMain: PowerOn allowed DX12 DX11 VK 
+2026-05-07T16:11:28.272Z In(05) mks  MKSRenderMain: ISB not enabled by config
+2026-05-07T16:11:28.272Z In(05) mks  MKSRenderMain: Collecting RenderOps caps from VK
+2026-05-07T16:11:28.272Z In(05) mks  MKSRenderMain: Starting VK
+2026-05-07T16:11:28.273Z Wa(03) mks  Vulkan Renderer: Failed to open vulkan-1.dll library: The specified module could not be found
+2026-05-07T16:11:28.273Z Wa(03) mks  Failed to initialize Vulkan
+2026-05-07T16:11:28.273Z In(05) mks  MKSRenderMain: Failed to start the renderer: VK
+2026-05-07T16:11:28.273Z In(05) mks  MKSRenderMain: Collecting RenderOps caps from DX12
+2026-05-07T16:11:28.273Z In(05) mks  MKSRenderMain: Starting DX12
+2026-05-07T16:11:28.289Z In(05) mks  DX12Module: Available adapters:
+2026-05-07T16:11:28.290Z In(05) mks  DX12Module:  Intel(R) HD Graphics Family
+2026-05-07T16:11:28.290Z In(05) mks  DX12Module:    VendorId = 32902, DeviceId = 2582, SubSysId = 159846437, Revision = 11, AdapterLuid = 0x000000000000b40e, Flags = 0x28
+2026-05-07T16:11:28.290Z In(05) mks  DX12Module:    DedicatedVideoMemory = 117964800, DedicatedSystemMemory = 0, SharedSystemMemory = 2147483648
+2026-05-07T16:11:28.297Z In(05) mks  DX12Module:  Microsoft Basic Render Driver
+2026-05-07T16:11:28.297Z In(05) mks  DX12Module:    VendorId = 5140, DeviceId = 140, SubSysId = 0, Revision = 0, AdapterLuid = 0x000000000000b717, Flags = 0x2e
+2026-05-07T16:11:28.297Z In(05) mks  DX12Module:    DedicatedVideoMemory = 0, DedicatedSystemMemory = 0, SharedSystemMemory = 8548683776
+2026-05-07T16:11:28.304Z In(05) mks  DX12Module: Selected adapter:
+2026-05-07T16:11:28.304Z In(05) mks  DX12Module:  Intel(R) HD Graphics Family
+2026-05-07T16:11:28.304Z In(05) mks  DX12Module:    VendorId = 32902, DeviceId = 2582, SubSysId = 159846437, Revision = 11, AdapterLuid = 0x000000000000b40e, Flags = 0x28
+2026-05-07T16:11:28.304Z In(05) mks  DX12Module:    DedicatedVideoMemory = 117964800, DedicatedSystemMemory = 0, SharedSystemMemory = 2147483648
+2026-05-07T16:11:28.304Z In(05) mks  DX12Module:  GPU chip: Unknown (Gen??)
+2026-05-07T16:11:28.321Z In(05) mks  DX12Module: D3D12_FEATURE_D3D12_OPTIONS:
+2026-05-07T16:11:28.321Z In(05) mks  DX12Module:   DoublePrecisionFloatShaderOps = true
+2026-05-07T16:11:28.321Z In(05) mks  DX12Module:   OutputMergerLogicOp = true
+2026-05-07T16:11:28.321Z In(05) mks  DX12Module:   MinPrecisionSupport = D3D12_SHADER_MIN_PRECISION_SUPPORT_NONE
+2026-05-07T16:11:28.321Z In(05) mks  DX12Module:   TiledResourcesTier = D3D12_TILED_RESOURCES_TIER_NOT_SUPPORTED
+2026-05-07T16:11:28.321Z In(05) mks  DX12Module:   ResourceBindingTier = D3D12_RESOURCE_BINDING_TIER_1
+2026-05-07T16:11:28.321Z In(05) mks  DX12Module: device is not supported!
+2026-05-07T16:11:28.339Z In(05) mks  MKSRenderMain: Failed to start the renderer: DX12
+2026-05-07T16:11:28.339Z In(05) mks  MKSRenderMain: Collecting RenderOps caps from DX11
+2026-05-07T16:11:28.339Z In(05) mks  MKSRenderMain: Starting DX11
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: Enumerating adapter 0
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: `Intel(R) HD Graphics Family` vendor=0x8086 device=0x0a16 revision=11
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: video=112MB system=0MB shared=2048MB
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: LOCAL     budget  2048M usage     0M avail  2048M res     0M
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: NON-LOCAL budget     0M usage     0M avail     0M res     0M
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: Enumerating adapter 1
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: `Microsoft Basic Render Driver` vendor=0x1414 device=0x008c revision=0
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: video=0MB system=0MB shared=8152MB
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: LOCAL     budget  7489M usage     0M avail  3872M res     0M
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: NON-LOCAL budget     0M usage     0M avail     0M res     0M
+2026-05-07T16:11:28.345Z Wa(03) mks  DX11Renderer: Device ID is badlisted
+2026-05-07T16:11:28.345Z Wa(03) mks  DX11Renderer: Unable to create a Core 3D device from the enumerated adapters...
+2026-05-07T16:11:28.345Z Wa(03) mks  DX11Renderer: Unable to create a Core 3D device from the enumerated adapters...
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: Releasing DXGI Factory
+2026-05-07T16:11:28.345Z In(05) mks  DX11Renderer: Unloading modules
+2026-05-07T16:11:28.346Z In(05) mks  MKSRenderMain: Failed to start the renderer: DX11
+2026-05-07T16:11:28.346Z In(05) mks  MKSRenderMain: Retrying renderer selection without 3D requirements
+2026-05-07T16:11:28.346Z In(05) mks  MKSRenderMain: Unable to find a renderer
+2026-05-07T16:11:28.346Z In(05) mks  MKSRenderMain: Failed to PowerOn: Unable to find a suitable graphics renderer.
+2026-05-07T16:11:28.346Z In(05) mks  MKS: RenderMain failed to PowerOn
+2026-05-07T16:11:28.346Z In(05) main  Stopping MKS/SVGA threads
+2026-05-07T16:11:28.346Z In(05) main  MKSThread: Requesting MKS exit
+2026-05-07T16:11:28.346Z In(05) svga  MKSThread: SVGA thread is skipping the main loop
+2026-05-07T16:11:28.347Z In(05) main  MKS/SVGA threads are stopped
+2026-05-07T16:11:28.347Z In(05) main  Msg_Post: Error
+2026-05-07T16:11:28.347Z In(05) main  [msg.mks.noRendererFound] Unable to find a suitable graphics renderer.
+2026-05-07T16:11:28.347Z In(05) main  ----------------------------------------
+2026-05-07T16:11:28.347Z Wa(03) main  Unable to find a suitable graphics renderer.
+2026-05-07T16:11:28.347Z In(05) main  Msg_Post: Error
+2026-05-07T16:11:28.347Z In(05) main  [msg.mks.powerOnFailed] Failed to initialize mouse-keyboard-screen control.
+2026-05-07T16:11:28.347Z In(05) main  ----------------------------------------
+2026-05-07T16:11:28.347Z Wa(03) main  Failed to initialize mouse-keyboard-screen control.
